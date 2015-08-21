@@ -12,10 +12,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'nocache_hash' => '167672180555d3044da28ee3-16380533',
   'cache_lifetime' => 31536000,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d6f2dfc4fd13_40675131',
+  'unifunc' => 'content_55d7310591c781_05953658',
   'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55d6f2dfc4fd13_40675131')) {function content_55d6f2dfc4fd13_40675131($_smarty_tpl) {?><div id="contact-link">
+<?php if ($_valid && !is_callable('content_55d7310591c781_05953658')) {function content_55d7310591c781_05953658($_smarty_tpl) {?><div id="contact-link">
 	<a href="http://localhost:8888/prestashop/nous-contacter" title="Contact">Contact</a>
 </div>
 <?php }} ?>

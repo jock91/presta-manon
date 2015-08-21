@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-06-10 17:13:59
+<?php /* Smarty version Smarty-3.1.19, created on 2015-08-21 16:03:41
          compiled from "/Applications/MAMP/htdocs/prestashop/modules/themeconfigurator/views/templates/admin/new.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:6020552255785437eaa1f1-95736679%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '8ae0cde6274e5401e17fefec6c38f6e516a43bf2' => 
     array (
       0 => '/Applications/MAMP/htdocs/prestashop/modules/themeconfigurator/views/templates/admin/new.tpl',
-      1 => 1425636560,
+      1 => 1439892656,
       2 => 'file',
     ),
   ),
@@ -15,14 +15,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_55785438088434_93959593',
   'variables' => 
   array (
     'htmlitems' => 0,
     'lang' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55785438088434_93959593',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_55785438088434_93959593')) {function content_55785438088434_93959593($_smarty_tpl) {?>
 

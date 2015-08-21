@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '96567695755d3044cac4ee4-05324444',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d6f2df90ddc4_79982189',
+  'unifunc' => 'content_55d7310582d306_82185376',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55d6f2df90ddc4_79982189')) {function content_55d6f2df90ddc4_79982189($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55d7310582d306_82185376')) {function content_55d7310582d306_82185376($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost:8888/prestashop/mon-compte" title="Gérer mon compte client" rel="nofollow">Mon compte</a></h4>
